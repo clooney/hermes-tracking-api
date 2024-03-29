@@ -1,9 +1,9 @@
 # TrackingMore: Hermes Tracking API
-[Hermes Tracking API](https://www.trackingmore.com/hermes-tracking-api.html) enables you to connect tracking info of Hermes shipments into your system, improving shipment visibility. 
+[Hermes Tracking API](https://www.trackingmore.com/hermes-tracking-api.html)  streamlines shipment monitoring by integrating FedEx data directly into your systems for better control.
 
-Besides Hermes, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+TrackingMore ups the ante with a [unified tracking API](https://www.trackingmore.com/tracking-api) that taps into a network of 1,200+ global carriers, enabling wide-ranging tracking in one go.
 
-TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
+The TrackingMore API is multi-language compatible (seven languages supported) and comes with clear, concise docs for hassle-free integration.
 
 ### Features
    *  Unified real-time tracking information for Hermes shipments.
@@ -11,7 +11,7 @@ TrackingMore provides API compatibility with seven programming languages. Compre
 
 ### Tracking Status Glossary
 
-We categorize shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
+TrackingMore categorizes shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
 String | Description 
 ----|------
 inforeceived | The courier has received the package info and is about to pick up the package.
