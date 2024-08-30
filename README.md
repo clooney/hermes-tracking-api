@@ -1,9 +1,9 @@
 # TrackingMore: Hermes Tracking API & Webhook
 [Hermes Tracking API](https://www.trackingmore.com/hermes-tracking-api.html)  streamlines shipment monitoring by integrating FedEx data directly into your systems for better control.
 
-TrackingMore ups the ante with a [unified tracking API](https://www.trackingmore.com/tracking-api) that taps into a network of 1,200+ global carriers, enabling wide-ranging tracking in one go.
+TrackingMore provides a [unified tracking API](https://www.trackingmore.com/tracking-api) that taps into a network of 1,200+ global carriers, enabling wide-ranging tracking including [Hermes Tracking](https://www.trackingmore.com/hermes-tracking.html) in one go.
 
-The TrackingMore API is multi-language compatible (seven languages supported) and comes with clear, concise docs for hassle-free integration.
+The TrackingMore API is multi-language compatible (seven programming languages supported) and comes with clear, concise docs for hassle-free integration.
 
 ### Features
    *  Unified real-time tracking information for Hermes shipments.
